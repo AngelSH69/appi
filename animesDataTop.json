@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Berserk",
+        "categoria": "Acción/Fantasía Oscura",
+        "descripcion": "Un espadachín lucha contra su destino en un mundo brutal.",
+        "fecha": "1997-10-07T00:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "nombre": "Neon Genesis Evangelion",
+        "categoria": "Mecha/Psicológico",
+        "descripcion": "Adolescentes pilotan robots gigantes para salvar al mundo.",
+        "fecha": "1995-10-04T00:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "nombre": "Chainsaw Man",
+        "categoria": "Acción/Sobrenatural",
+        "descripcion": "Un joven con un corazón de demonio lucha contra criaturas infernales.",
+        "fecha": "2022-10-11T00:00:00.000Z"
+    },
+    {
+        "id": 4,
+        "nombre": "Jujutsu Kaisen",
+        "categoria": "Acción/Sobrenatural",
+        "descripcion": "Un estudiante pelea contra maldiciones para proteger al mundo.",
+        "fecha": "2020-10-03T00:00:00.000Z"
+    },
+    {
+        "id": 5,
+        "nombre": "Hunter x Hunter",
+        "categoria": "Aventura/Shonen",
+        "descripcion": "Un joven busca convertirse en cazador y encontrar a su padre.",
+        "fecha": "1999-10-16T00:00:00.000Z"
+    }
+]
